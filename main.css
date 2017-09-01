@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+}
+
+.primary { color: #3D07BB; }
+.bg-primary { background-color: #3D07BB; }
+.b--primary { border-color: #3D07BB; }
+
+.hover-primary:hover,
+.hover-primary:focus { color: #3D07BB; }
+
+.hover-bg-primary:hover,
+.hover-bg-primary:focus { background-color: #3D07BB; }
